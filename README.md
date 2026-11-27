@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Personal Projects and Sidequesting, <br>currently learning UI/UX, Rust, Python. A student leader driven by <br>curiosity and intent.<br>
+I am currently working on Personal Projects and Sidequesting, currently learning UI/UX, Rust, Python. A student leader driven by curiosity and intent.
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@ I am currently working on Personal Projects and Sidequesting, <br>currently lear
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Angello-Leo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
